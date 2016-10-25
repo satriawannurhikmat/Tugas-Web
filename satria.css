@@ -1,0 +1,20 @@
+body {margin: 0;}
+nav {background: lightblue;}
+nav ul {list-style-type: none; margin: 0; padding: 0;}
+nav ul li{padding: 10px 5px;float: left;color:green}
+nav ul li a{text-decoration: none; padding: 10px 115px; color: #1300cc; display: inline-block;}
+nav ul li a{background: lightblue} {background: red; color: black;}
+header div ul li a:hover {background: red;} {background: blue; color: white;}
+.clear {clear: both;}
+.Call-Us {float: left;color: #FFF;}
+.Email a {float: left;color: #FFF;text-decoration: none;}
+.flat-icon{float: left;padding: 0;margin: 0;}
+.logo {list-style-type: none; margin: 0;padding: 10;overflow: hidden; text-align: center;}
+.menu ul  {list-style: none; margin: 0;}
+.menu ul li a {text-decoration: none;padding:0; color: gray; }
+.menu ul li {color: #aaa; padding:3%;text-align: center; float: left; }
+section h1 {color: gray; text-align: center;}
+section h3 {color: black;}
+.wrapper a img {width: 50%;float: center;text-align: center;}
+.wrapper h3 {padding:0px 50px;width: 50%;}
+.wrapper1 a img {float: right; width: 50%;display:;}
